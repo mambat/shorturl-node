@@ -1,4 +1,4 @@
 short-url-node
 ==============
 
-A short url http service builds on node.js and redis
+基于Node.js和Redis实现的短域名服务

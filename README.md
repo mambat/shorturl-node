@@ -1,3 +1,1 @@
-#short-url-node
-
-基于Node.js和Redis实现的短域名服务
+鍩轰簬Node.js銆丷edis瀹炵幇鐨勭煭鍩熷悕鏈嶅姟
